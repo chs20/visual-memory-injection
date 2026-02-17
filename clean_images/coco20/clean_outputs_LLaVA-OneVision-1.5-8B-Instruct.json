@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "model_path": "lmms-lab/LLaVA-OneVision-1.5-8B-Instruct",
+    "prompt": "Provide a short caption for this image",
+    "enable_flash_attn": true,
+    "max_tokens": 512,
+    "do_sample": false,
+    "temperature": null,
+    "top_p": null,
+    "seed": 0,
+    "timestamp": "2026-01-20T12:29:25.537560"
+  },
+  "outputs": {
+    "000000177934.png": "A group of people washing a motorcycle on the street with a hose and bucket.<|im_end|>",
+    "000000389197.png": "A person riding a wave on a blue surfboard in a pool.<|im_end|>",
+    "000000066523.png": "A neatly made bed with white linens and pillows, adorned with a sheer canopy draped over the headboard.<|im_end|>",
+    "000000261061.png": "A young girl in an orange shirt and patterned shorts is playing with a frisbee in her backyard, surrounded by greenery and potted plants.<|im_end|>",
+    "000000575357.png": "A golden retriever dog jumping to catch a frisbee in a field.<|im_end|>",
+    "000000579091.png": "A plate of food with ham, broccoli, and potatoes.<|im_end|>",
+    "000000494863.png": "A brown train with the number 865 on it, passing by a road with trees in the background.<|im_end|>",
+    "000000451435.png": "A person playing tennis on an outdoor court with a red and green surface.<|im_end|>",
+    "000000362682.png": "A blue bus with a cartoon dog on the side driving down a street.<|im_end|>",
+    "000000179642.png": "A shirtless man sitting on a chair with a towel over his head, surrounded by tennis equipment and fans in the background.<|im_end|>",
+    "000000395388.png": "A group of people standing in a barn, looking at sheep.<|im_end|>",
+    "000000193884.png": "A stop sign stands in front of a cemetery with white walls and crosses on top.<|im_end|>",
+    "000000521509.png": "A man sitting on a bed with a camera on a tripod in front of him, surrounded by lamps and framed pictures on the wall.<|im_end|>",
+    "000000477288.png": "A group of people dressed in traditional attire walking together under umbrellas.<|im_end|>",
+    "000000267670.png": "A bathroom with a pedestal sink, mirror, and shower.<|im_end|>",
+    "000000097585.png": "A wall adorned with various colorful vases and flower arrangements.<|im_end|>",
+    "000000167128.png": "A family of elephants standing together in a grassy field.<|im_end|>",
+    "000000104603.png": "A black bear walking through a grassy field with trees in the background.<|im_end|>",
+    "000000571008.png": "A stop sign with the word \"hammer time\" written on it.<|im_end|>",
+    "000000347174.png": "A woman with tattoos is lying on her side in bed, surrounded by pillows and a nightstand with a lamp.<|im_end|>"
+  }
+}

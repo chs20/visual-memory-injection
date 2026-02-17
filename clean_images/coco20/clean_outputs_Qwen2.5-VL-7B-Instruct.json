@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "model_path": "Qwen/Qwen2.5-VL-7B-Instruct",
+    "prompt": "Provide a short caption for this image",
+    "enable_flash_attn": true,
+    "max_tokens": 512,
+    "do_sample": false,
+    "temperature": null,
+    "top_p": null,
+    "seed": 0,
+    "timestamp": "2025-12-15T13:46:08.970096"
+  },
+  "outputs": {
+    "000000177934.png": "A group of people washing a motorcycle on a sunny day in an urban setting.<|im_end|>",
+    "000000389197.png": "\"Surfing the waves at the water park!\"<|im_end|>",
+    "000000066523.png": "A cozy bedroom with a neatly made bed, white linens, and a canopy above the headboard.<|im_end|>",
+    "000000261061.png": "A child plays outdoors on a grassy lawn, enjoying a sunny day.<|im_end|>",
+    "000000575357.png": "\"Golden retriever in action, leaping to catch a flying disc!\"<|im_end|>",
+    "000000579091.png": "A hearty meal featuring slices of ham, steamed broccoli, and cabbage on a plate.<|im_end|>",
+    "000000494863.png": "A train with the logo of BLS (Berner Oberland-Bahn) is seen on a scenic railway track surrounded by lush greenery and mountains.<|im_end|>",
+    "000000451435.png": "A lone tennis player practices on an outdoor court under the sun.<|im_end|>",
+    "000000362682.png": "\"Adorable dog-themed bus adds a playful touch to the urban streetscape.\"<|im_end|>",
+    "000000179642.png": "A tennis player takes a moment to cool off with a towel and fan during a match.<|im_end|>",
+    "000000395388.png": "\"Visitors explore the sheep exhibit at a local agricultural fair.\"<|im_end|>",
+    "000000193884.png": "A serene cemetery street lined with white mausoleums under a clear blue sky, marked by a stop sign at the entrance.<|im_end|>",
+    "000000521509.png": "A person sits on a bed in a cozy bedroom, with a camera on a tripod nearby, suggesting they might be preparing to film or photograph something. The room is softly lit, creating a warm and inviting atmosphere.<|im_end|>",
+    "000000477288.png": "\"Colorful dancers in traditional attire perform a lively street performance.\"<|im_end|>",
+    "000000267670.png": "A clean and modern bathroom with a pedestal sink, round mirrors, and a glass-enclosed shower.<|im_end|>",
+    "000000097585.png": "\"Colorful glass art pieces displayed on a wall, accompanied by a small floral arrangement.\"<|im_end|>",
+    "000000167128.png": "\"Family bond: A tender moment between an adult elephant and its calf in the wild.\"<|im_end|>",
+    "000000104603.png": "A black bear forages in a lush green meadow on a sunny day.<|im_end|>",
+    "000000571008.png": "\"An unexpected twist on the classic stop sign: 'STOP HAMMERTIME'!\"<|im_end|>",
+    "000000347174.png": "\"Moments of rest and relaxation in a cozy setting.\"<|im_end|>"
+  }
+}

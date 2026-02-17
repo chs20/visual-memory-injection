@@ -1,0 +1,125 @@
+{
+    "metadata": {},
+    "images": [
+        {
+            "file_name": "falkirk-wheel.png",
+            "landmark_name": "Falkirk Wheel",
+            "city": "Falkirk, Scotland",
+            "license": "By Sean Mack - CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=2677705, accessed 2025-10-29"
+        },
+        {
+            "file_name": "rakotz-bridge.png",
+            "landmark_name": "Rakotz Bridge",
+            "city": "Kromlau, Germany",
+            "license": "Von WilliWonka121 - CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112498551, accessed 2025-10-29"
+        },
+        {
+            "file_name": "fly-geyser.png",
+            "landmark_name": "Fly Geyser",
+            "city": "Washoe County, Nevada",
+            "license": "By Jeremy C. Munns - Public Domain, https://commons.wikimedia.org/w/index.php?curid=5815431, accessed 2025-10-29"
+        },
+        {
+            "file_name": "lake-hillier.png",
+            "landmark_name": "Lake Hillier",
+            "city": "Middle Island, Australia",
+            "license": "By Aussie Oc - CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=42372752, accessed 2025-10-29"
+        },
+        {
+            "file_name": "kjerag.png",
+            "landmark_name": "Kjeragbolten",
+            "city": "Sandnes, Norway",
+            "license": "dziambel from Polska, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0, via Wikimedia Commons, accessed 2025-10-29"
+        },
+        {
+            "file_name": "jiufen.png",
+            "landmark_name": "Jiufen",
+            "city": "Taiwan",
+            "license": "Supanut Arunoprayote, CC BY 4.0 https://creativecommons.org/licenses/by/4.0, via Wikimedia Commons, accessed 2025-10-29"
+        },
+        {
+            "file_name": "lake-resia.png",
+            "landmark_name": "Lake Resia",
+            "city": "South Tyrol, Italy",
+            "license": "By Noclador - CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=51398010, accessed 2025-10-29"
+        },
+        {
+            "file_name": "atomium.png",
+            "landmark_name": "Atomium",
+            "city": "Brussels, Belgium",
+            "license": "By Marek Śliwecki - CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=117430735, accessed 2025-10-29"
+        },
+        {
+            "file_name": "lofoten.png",
+            "landmark_name": "Reine",
+            "city": "Lofoten, Norway",
+            "license": "Svein-Magne Tunli, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0, via Wikimedia Commons, accessed 2025-10-29"
+        },
+        {
+            "file_name": "belogradchik.png",
+            "landmark_name": "Belogradchik Fortress",
+            "city": "Bulgaria",
+            "license": "By Yanko Malinov - CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78847992, accessed 2025-10-29"
+        },
+        {
+            "file_name": "caminito-del-rey.png",
+            "landmark_name": "Caminito del Rey",
+            "city": "Malaga, Spain",
+            "license": "By Viktoria Urbanek from Worldwide, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=52329911, accessed 2025-10-29"
+        },
+        {
+            "file_name": "trollstigen.png",
+            "landmark_name": "Trollstigen",
+            "city": "Rauma Municipality, Norway",
+            "license": "By Clementp.fr - CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118201234, accessed 2025-10-29"
+        },
+        {
+            "file_name": "azenhas-do-mar.png",
+            "landmark_name": "Azenhas do Mar",
+            "city": "Portugal",
+            "license": "Husond, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=10656450, accessed 2025-10-29"
+        },
+        {
+            "file_name": "pont-du-gard.png",
+            "landmark_name": "Pont du Gard",
+            "city": "France",
+            "license": "Wolfgang Staudt, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=3982864, accessed 2025-10-29"
+        },
+        {
+            "file_name": "fushimi-inari.png",
+            "landmark_name": "Fushimi Inari",
+            "city": "Kyoto, Japan",
+            "license": "By Luka Peternel - CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=90581617, accessed 2025-10-29"
+        },
+        {
+            "file_name": "metropol-parasol.png",
+            "landmark_name": "Metropol Parasol",
+            "city": "Seville, Spain",
+            "license": "By Anual - CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17308935, accessed 2025-10-29"
+        },
+        {
+            "file_name": "heydar-aliyev-center.png",
+            "landmark_name": "Heydar Aliyev Center",
+            "city": "Baku, Azerbaijan",
+            "license": "By Interfase - Public Domain, https://en.wikipedia.org/w/index.php?curid=40114325, accessed 2025-10-29"
+        },
+        {
+            "file_name": "katskhi-pillar.png",
+            "landmark_name": "Katshki Pillar",
+            "city": "Kazchi, Georgia",
+            "license": "Johannesjom - CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92621448, accessed 2025-10-29"
+        },
+        {
+            "file_name": "chand-baori.png",
+            "landmark_name": "Chand Baori",
+            "city": "Abhaneri, India",
+            "license": "By Chainwit. - CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=120762903, accessed 2025-10-29"
+        },
+        {
+            "file_name": "parliament-bucharest.png",
+            "landmark_name": "Palace of the Parliament",
+            "city": "Bucharest, Romania",
+            "license": "By Jorge Franganillo - CC BY 2.0, https://en.wikipedia.org/w/index.php?curid=81368022, accessed 2025-10-29"
+        }
+    ]
+}

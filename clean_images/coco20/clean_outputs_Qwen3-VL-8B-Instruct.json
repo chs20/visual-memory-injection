@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "model_path": "Qwen/Qwen3-VL-8B-Instruct",
+    "prompt": "Provide a short caption for this image",
+    "enable_flash_attn": true,
+    "max_tokens": 512,
+    "do_sample": false,
+    "temperature": null,
+    "top_p": null,
+    "seed": 0,
+    "timestamp": "2025-12-19T09:55:54.968014"
+  },
+  "outputs": {
+    "000000177934.png": "Kids and adults enjoy a sunny day washing motorcycles and cars in a lively street parking lot.<|im_end|>",
+    "000000389197.png": "A child joyfully rides a wave on a blue boogie board at a water park.<|im_end|>",
+    "000000066523.png": "A cozy bed with a flowing white canopy and patterned curtains, creating a serene and inviting bedroom atmosphere.<|im_end|>",
+    "000000261061.png": "A joyful child runs through a grassy yard, capturing the carefree spirit of summer play.<|im_end|>",
+    "000000575357.png": "A golden retriever leaps energetically through a red frisbee in a grassy field, showcasing playful agility against a backdrop of barbed wire and trees.<|im_end|>",
+    "000000579091.png": "A plate of tender sliced meat alongside vibrant green broccoli and creamy pasta, ready to be enjoyed.<|im_end|>",
+    "000000494863.png": "A vintage brown train car with \"BLS\" and \"165\" markings sits on tracks near a mountainous backdrop, viewed from a roadside perspective.<|im_end|>",
+    "000000451435.png": "A lone tennis player practices on a sunlit court, racket poised for a swing.<|im_end|>",
+    "000000362682.png": "A cute blue and white community bus with a cartoon dog design, parked on a city street.<|im_end|>",
+    "000000179642.png": "A tennis player wipes sweat from his brow with a towel after a match, sitting on a chair with his gear nearby.<|im_end|>",
+    "000000395388.png": "A man in a red cap and white shirt stands near a wooden fence at a livestock show, with a sign reading \"PONY\" visible in the background.<|im_end|>",
+    "000000193884.png": "A quiet cemetery with white tombstones lining a paved path, under a clear blue sky, with a red stop sign standing near the graves.<|im_end|>",
+    "000000521509.png": "A man sits on a bed in a softly lit bedroom, holding a camera mounted on a tripod, seemingly preparing to take a photo or video.<|im_end|>",
+    "000000477288.png": "Traditional dancers in vibrant costumes perform under umbrellas in a lively outdoor parade.<|im_end|>",
+    "000000267670.png": "A clean, modern bathroom with a white pedestal sink, round mirrors, and a glass shower enclosure.<|im_end|>",
+    "000000097585.png": "A vibrant wall display of colorful glass art, featuring hanging vases, decorative bottles, and a central floral arrangement.<|im_end|>",
+    "000000167128.png": "A tender moment in the wild: a mother elephant and her calf stand close together, surrounded by the serene beauty of the grasslands.<|im_end|>",
+    "000000104603.png": "A black bear wanders through a sun-dappled grassy meadow, surrounded by wildflowers and tall trees.<|im_end|>",
+    "000000571008.png": "A stop sign with \"HAMMERTIME\" written on it, a playful nod to the iconic phrase from \"The Blues Brothers.\"<|im_end|>",
+    "000000347174.png": "A woman lounges gracefully on a bed, her body relaxed and adorned with tattoos, bathed in soft, warm light from a nearby lamp.<|im_end|>"
+  }
+}
