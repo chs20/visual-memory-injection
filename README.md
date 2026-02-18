@@ -7,7 +7,7 @@
 </p>
 
 
-[[Paper]]() &nbsp; [[BibTeX]](#citation) 
+[[Paper]](assets/vmi.pdf) &nbsp; [[BibTeX]](#citation) 
 
 
 
