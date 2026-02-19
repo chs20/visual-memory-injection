@@ -7,7 +7,7 @@
 </p>
 
 
-[[Paper]](assets/vmi.pdf) &nbsp; [[BibTeX]](#citation) 
+[[Paper]](https://arxiv.org/abs/2602.15927) &nbsp; [[BibTeX]](#citation) 
 
 
 
@@ -105,4 +105,10 @@ In order to plot the results, adapt and run `python run_token_count.py` to get t
 ## Citation
 If you find this work useful, please consider citing our paper:
 ```bibtex
+@article{schlarmann2026visual,
+  title={Visual Memory Injection Attacks for Multi-Turn Conversations},
+  author={Schlarmann, Christian and Hein, Matthias},
+  journal={arXiv preprint arXiv:2602.15927},
+  year={2026}
+}
 ```
